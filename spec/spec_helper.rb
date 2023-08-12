@@ -1,4 +1,6 @@
-require_relative "../lib/person.rb"
+start
+
+require_relative "../lib/web/person.rb"
 
 RSpec.configure do |config|
   
